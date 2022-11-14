@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-10T14:41:37 IST" name="Default suite" finished-at="2022-11-10T14:43:56 IST" duration-ms="139149">
+    <groups>
+    </groups>
+    <test started-at="2022-11-10T14:41:37 IST" name="Default test" finished-at="2022-11-10T14:43:56 IST" duration-ms="139149">
+      <class name="testCases.HeaderTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.HeaderTest@63355449]" started-at="2022-11-10T14:41:37 IST" name="setUp" finished-at="2022-11-10T14:41:49 IST" duration-ms="11878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testCases.HeaderTest@63355449]" started-at="2022-11-10T14:41:49 IST" name="beforeMethod" finished-at="2022-11-10T14:41:49 IST" duration-ms="227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.HeaderTest.ValidateClickTestingOfHeaderPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidateClickTestingOfHeaderPage()[pri:0, instance:testCases.HeaderTest@63355449]" started-at="2022-11-10T14:41:49 IST" name="ValidateClickTestingOfHeaderPage" finished-at="2022-11-10T14:43:55 IST" duration-ms="126589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateClickTestingOfHeaderPage -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testCases.HeaderTest@63355449]" started-at="2022-11-10T14:43:55 IST" name="reportWrapUp" finished-at="2022-11-10T14:43:55 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateClickTestingOfHeaderPage status=SUCCESS method=HeaderTest.ValidateClickTestingOfHeaderPage()[pri:0, instance:testCases.HeaderTest@63355449] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testCases.HeaderTest.ValidateClickTestingOfHeaderPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCases.HeaderTest@63355449]" started-at="2022-11-10T14:43:55 IST" name="closeBrowser" finished-at="2022-11-10T14:43:56 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCases.HeaderTest@63355449]" started-at="2022-11-10T14:43:56 IST" name="close" finished-at="2022-11-10T14:43:56 IST" duration-ms="462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.HeaderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
