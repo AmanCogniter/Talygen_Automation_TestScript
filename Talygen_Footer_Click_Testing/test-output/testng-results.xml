@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-10T14:38:54 IST" name="Default suite" finished-at="2022-11-10T14:41:18 IST" duration-ms="144306">
+    <groups>
+    </groups>
+    <test started-at="2022-11-10T14:38:54 IST" name="Default test" finished-at="2022-11-10T14:41:18 IST" duration-ms="144306">
+      <class name="testCases.FooterTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.FooterTest@21de60b4]" started-at="2022-11-10T14:38:54 IST" name="setUp" finished-at="2022-11-10T14:39:05 IST" duration-ms="11068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testCases.FooterTest@21de60b4]" started-at="2022-11-10T14:39:05 IST" name="beforeMethod" finished-at="2022-11-10T14:39:05 IST" duration-ms="187" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testCases.FooterTest.ValidateClickTestingOfFooterPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidateClickTestingOfFooterPage()[pri:0, instance:testCases.FooterTest@21de60b4]" started-at="2022-11-10T14:39:05 IST" name="ValidateClickTestingOfFooterPage" finished-at="2022-11-10T14:41:18 IST" duration-ms="132446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateClickTestingOfFooterPage -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testCases.FooterTest@21de60b4]" started-at="2022-11-10T14:41:18 IST" name="reportWrapUp" finished-at="2022-11-10T14:41:18 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateClickTestingOfFooterPage status=SUCCESS method=FooterTest.ValidateClickTestingOfFooterPage()[pri:0, instance:testCases.FooterTest@21de60b4] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testCases.FooterTest.ValidateClickTestingOfFooterPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCases.FooterTest@21de60b4]" started-at="2022-11-10T14:41:18 IST" name="closeBrowser" finished-at="2022-11-10T14:41:18 IST" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testCases.FooterTest@21de60b4]" started-at="2022-11-10T14:41:18 IST" name="close" finished-at="2022-11-10T14:41:19 IST" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testCases.FooterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
