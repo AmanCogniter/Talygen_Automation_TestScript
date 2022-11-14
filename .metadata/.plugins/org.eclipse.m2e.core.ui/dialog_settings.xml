@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\aanand\eclipse-workspace\Document-Storage-Module-AmanBranch"/>
+			<item value="C:\Users\aanand\eclipse-workspace\Ticketing_Module-AmanBranch"/>
+			<item value="C:\Users\aanand\eclipse-workspace\Performance-Review-Module-master"/>
+			<item value="C:\Users\aanand\eclipse-workspace\Expense-Module-AmanBranch"/>
+			<item value="C:\Users\aanand\eclipse-workspace\TimeTracking_Module-AmanBranch"/>
+			<item value="C:\Users\aanand\eclipse-workspace\Company-Setup-Module-master"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\aanand\eclipse-workspace\Talygen_Footer_Click_Testing\src\test\java\testCases\FooterTest.java"/>
+			<item value="C:\Users\aanand\eclipse-workspace\Company-Setup-Module-master\Company-Setup-Module-master\Company-Setup-Module-master\pom.xml"/>
+			<item value="C:\Users\aanand\git\TalygenTimeTracking\TalygenTimeTracking\src\main\resources\testdata.properties"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.talygen.Header_clickTesting"/>
+			<item value="com.talygen.Footer_clickTesting"/>
+			<item value="com.talygen.ContextMenu_clickTesting"/>
+			<item value="com.talygen.CRM"/>
+			<item value="com.talygen.clickTesting"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Talygen_Header_Click_Testing"/>
+			<item value="Talygen_Footer_Click_Testing"/>
+			<item value="Talygen_Context_Menu_Click_Testing"/>
+			<item value="CRM_Page_LoadTime"/>
+			<item value="Full_Menu_Click_Testing"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

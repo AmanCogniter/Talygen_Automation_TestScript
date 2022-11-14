@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Full_Menu_Click_Testing&apos; to &apos;Talygen_Full_Menu_Click_Testing&apos;&#x0D;&#x0A;- Original element: &apos;Full_Menu_Click_Testing&apos;&#x0D;&#x0A;- Renamed element: &apos;Full_Menu_Click_Testing&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Full_Menu_Click_Testing&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Full_Menu_Click_Testing" name="Talygen_Full_Menu_Click_Testing" references="true" stamp="1663136904277" version="1.0"/>
+</session>
