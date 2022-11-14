@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-23T03:32:09 IST" name="Default suite" finished-at="2021-06-23T03:32:36 IST" duration-ms="27540">
+    <groups>
+    </groups>
+    <test started-at="2021-06-23T03:32:09 IST" name="Default test" finished-at="2021-06-23T03:32:36 IST" duration-ms="27540">
+      <class name="testcases.TicketingGroupTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.TicketingGroupTest@2fd1433e]" started-at="2021-06-23T03:32:09 IST" name="setUp" finished-at="2021-06-23T03:32:18 IST" duration-ms="9153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.TicketingGroupTest@2fd1433e]" started-at="2021-06-23T03:32:18 IST" name="beforeMethod" finished-at="2021-06-23T03:32:18 IST" duration-ms="118" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.TicketingGroupTest.verifyAddSLA()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyAddSLA()[pri:0, instance:testcases.TicketingGroupTest@2fd1433e]" started-at="2021-06-23T03:32:18 IST" name="verifyAddSLA" finished-at="2021-06-23T03:32:36 IST" duration-ms="18224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddSLA -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.TicketingGroupTest@2fd1433e]" started-at="2021-06-23T03:32:36 IST" name="reportWrapUp" finished-at="2021-06-23T03:32:36 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAddSLA status=SUCCESS method=TicketingGroupTest.verifyAddSLA()[pri:0, instance:testcases.TicketingGroupTest@2fd1433e] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.TicketingGroupTest.verifyAddSLA()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.TicketingGroupTest@2fd1433e]" started-at="2021-06-23T03:32:36 IST" name="close" finished-at="2021-06-23T03:32:37 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.TicketingGroupTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
